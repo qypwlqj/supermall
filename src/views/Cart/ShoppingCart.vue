@@ -1,0 +1,18 @@
+<template>
+<div>这是购物车页面</div>
+</template>
+
+<script>
+export default {
+  name: '',
+  data() {
+    return {
+      
+    };
+  },
+}
+</script>
+
+<style lang="scss" scoped>
+
+</style>
